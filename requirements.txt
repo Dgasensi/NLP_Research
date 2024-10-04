@@ -1,0 +1,12 @@
+transformers 
+torch 
+pandas
+tf-keras
+datasets
+vaderSentiment
+lightgbm
+xgboost
+scikit-learn
+codecarbon==2.6
+spacy
+spacytextblob
